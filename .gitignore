@@ -1,0 +1,10 @@
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/
+.tmp_resume_media/
+image2.png
+image3.jpeg
+_pages/test.md
+*.gem
