@@ -4,6 +4,19 @@ title: "Curriculum Vitae"
 author_profile: true
 ---
 
+<p>
+  <a class="btn btn--primary" href="/files/Daoyuan_Zheng_CV.pdf" target="_blank" rel="noopener">Open PDF in a new tab</a>
+  <a class="btn" href="/files/Daoyuan_Zheng_CV.pdf" download>Download PDF</a>
+</p>
+
+<object data="/files/Daoyuan_Zheng_CV.pdf#view=FitH" type="application/pdf" width="100%" height="900" aria-label="Daoyuan Zheng curriculum vitae">
+  <p>Your browser cannot display the embedded PDF. <a href="/files/Daoyuan_Zheng_CV.pdf">Open the CV PDF directly</a>.</p>
+</object>
+
+---
+
+The text version below is provided for accessibility and quick browsing.
+
 ## Education
 
 - **PhD Candidate, Photogrammetry and Remote Sensing**, Wuhan University, 2023–present<br>
@@ -20,6 +33,7 @@ Remote sensing image interpretation; digital cultural heritage; remote sensing a
 
 ## Selected awards
 
+- Gold Medal, 3st Global Digital Intelligence Education Innovation Competition, 2026
 - Gold Medal, 1st Global Digital Intelligence Education Innovation Competition, 2024
 - First-Class Academic Scholarship, Wuhan University, 2024
 - Outstanding Graduate, China University of Geosciences (Wuhan), 2023
