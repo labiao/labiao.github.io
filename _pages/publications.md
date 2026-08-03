@@ -10,7 +10,7 @@ author_profile: true
 
 2. **Daoyuan Zheng**, Shaohua Wang, Haixia Feng, et al. “CSNet: Change selection of activations and pseudomasks for image-level weakly supervised change detection.” *IEEE Transactions on Geoscience and Remote Sensing*, 2025. [DOI](https://doi.org/10.1109/TGRS.2025.3587318)
 
-3. **Daoyuan Zheng**, Yizhou Lan, Zhongqiao Chen, et al. “A dataset of multi-source typical land cover classification in the Field Park in Wuhan (2020).” *China Scientific Data*, 2025.
+3. **Daoyuan Zheng**, Yizhou Lan, Zhongqiao Chen, et al. “A dataset of multi-source typical land cover classification in the Field Park in Wuhan (2020).” *China Scientific Data*, 2025. [DOI](https://www.sciengine.com/doi/10.11922/11-6035.csd.2024.0124.zh)
 
 4. **Daoyuan Zheng**, Shaohua Wang, Haixia Feng, et al. “Weakly supervised building extraction from high-resolution remote sensing images based on building-aware clustering and activation refinement network.” *IEEE Transactions on Geoscience and Remote Sensing*, 2024. [DOI](https://doi.org/10.1109/TGRS.2024.3438248)
 

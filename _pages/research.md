@@ -4,17 +4,17 @@ title: "Research"
 author_profile: true
 ---
 
-My work connects geospatial artificial intelligence with the documentation and conservation of cultural heritage. I am particularly interested in methods that remain effective when pixel-level annotation is expensive, imagery varies across sensors and seasons, and the target structures are narrow, fragmented, or visually subtle.
+My work connects geospatial artificial intelligence with the documentation and conservation of large-scale linear cultural heritage. I am particularly interested in methods that remain effective when pixel-level annotation is expensive, imagery varies across sensors and seasons, and the heritage target structures are narrow and visually subtle.
 
 ## Intelligent interpretation of Great Wall heritage
 
-I study automatic extraction and condition monitoring of Great Wall remains from high-resolution remote-sensing imagery. This work includes the construction of a large-scale segmentation dataset and the development of **GWSegNet**, which combines DINOv2 representations, cross-level feature aggregation, complementary attention, and gated refinement to recover elongated and discontinuous relic structures.
+I study automatic extraction and condition monitoring of Great Wall remains from high-resolution remote-sensing imagery. This work includes the construction of a large-scale segmentation dataset and the development of heritage-oriented segmentation network.
 
 ## Limited-supervision remote sensing
 
-My research explores weakly and semi-supervised learning for buildings, changes, and archaeological traces. Representative directions include image-level weak supervision, bounding-box supervision, pseudo-mask refinement, scene-level adaptation, relic-consistency learning, and contour-guided reweighting.
+My research explores weakly and semi-supervised learning for buildings, changes, and archaeological traces. Representative directions include image-level weak supervision, bounding-box supervision, pseudo-mask refinement, and consistency learning.
 
-## Terrain-aware and connectivity-aware learning
+## Terrain-aware multimodal fusion
 
 Great Wall remains are tightly coupled to terrain and often appear as long, thin structures. I investigate terrain-aware multimodal fusion and connectivity-aware objectives to improve topological continuity while suppressing terrain-induced false positives.
 

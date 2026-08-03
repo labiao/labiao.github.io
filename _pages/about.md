@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in **Photogrammetry and Remote Sensing at Wuhan University**, advised by Prof. Qingwu Hu and Prof. Shaohua Wang. My research lies at the intersection of **intelligent remote sensing interpretation** and **digital cultural heritage**.
+I am a PhD candidate in **Photogrammetry and Remote Sensing at Wuhan University**, advised by Prof. Qingwu Hu and Prof. Shaohua Wang. My research lies at the intersection of **intelligent remote sensing interpretation**,  **remote sensing archaeology**, and **digital cultural heritage**.
 
 I develop deep-learning methods for extracting buildings, roads, changes, and archaeological traces from remote-sensing imagery. My current work focuses on the large-scale identification and monitoring of Great Wall heritage using multimodal, multi-temporal, and limited-annotation data.
 
