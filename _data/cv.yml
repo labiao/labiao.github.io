@@ -1,0 +1,65 @@
+cv:
+  name: Daoyuan Zheng
+  label: PhD Candidate in Photogrammetry and Remote Sensing
+  email: zhengdaoyuan@whu.edu.cn
+  location: Wuhan, China
+  summary: Geospatial AI for intelligent remote sensing interpretation, remote sensing archaeology, and digital cultural heritage.
+  social_networks:
+    - network: GitHub
+      username: labiao
+  sections:
+    Education:
+      - institution: Wuhan University
+        location: Wuhan, China
+        area: Photogrammetry and Remote Sensing
+        studyType: PhD Candidate
+        start_date: 2023
+        end_date: present
+        highlights:
+          - "Advisors: Prof. Qingwu Hu and Prof. Shaohua Wang"
+      - institution: China University of Geosciences (Wuhan)
+        location: Wuhan, China
+        area: Computer Science and Technology
+        studyType: MEng
+        start_date: 2020
+        end_date: 2023
+        highlights:
+          - "Advisor: Prof. Fang Fang"
+      - institution: Wuhan Textile University
+        location: Wuhan, China
+        area: Software Engineering
+        studyType: BEng
+        start_date: 2016
+        end_date: 2020
+    Experience:
+      - company: Tencent CSIG
+        position: Research Intern
+        start_date: 2022-06
+        end_date: 2022-08
+    Awards:
+      - title: Gold Medal, 3rd Global Digital Intelligence Education Innovation Competition
+        date: 2026
+      - title: Gold Medal, 1st Global Digital Intelligence Education Innovation Competition
+        date: 2024
+      - title: First-Class Academic Scholarship, Wuhan University
+        date: 2024
+      - title: Outstanding Graduate, China University of Geosciences (Wuhan)
+        date: 2023
+      - title: First-Class Academic Scholarships, China University of Geosciences (Wuhan)
+        date: "2020 and 2021"
+      - title: Outstanding Graduate, Wuhan Textile University
+        date: 2020
+      - title: First-Class Scholarship, Wuhan Textile University
+        date: 2017
+      - title: Second-Class Scholarship, Wuhan Textile University
+        date: 2018
+    Interests:
+      - name: Remote sensing and cultural heritage
+        keywords: "Remote sensing image interpretation, digital cultural heritage, remote sensing archaeology, weakly and semi-supervised learning, multimodal and multi-temporal geospatial learning"
+    Talks:
+      - bullet: "**Great Wall building detection and vegetation monitoring.** Digital Archaeology Annual Conference, 2025."
+      - bullet: "**Weakly supervised building extraction from remote sensing imagery.** Zhizhuo Doctoral Forum, 2024."
+      - bullet: "**Weakly supervised building extraction.** Graduate Symposium, China University of Geosciences (Wuhan), 2021."
+    Professional Service:
+      - label: Journal reviewer
+        details: "IEEE Transactions on Geoscience and Remote Sensing; International Journal of Applied Earth Observation and Geoinformation; IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing; IEEE Geoscience and Remote Sensing Letters."

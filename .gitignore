@@ -9,3 +9,8 @@ image3.jpeg
 _pages/test.md
 *.gem
 tmp/
+node_modules/
+sites-academic/
+sites-academic-current-account/
+al-folio-upgrade-report.md
+outputs/

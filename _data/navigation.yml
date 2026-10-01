@@ -1,9 +1,1 @@
-main:
-  - title: "Research"
-    url: /research/
-  - title: "Publications"
-    url: /publications/
-  - title: "Projects"
-    url: /projects/
-  - title: "CV"
-    url: /cv/
+# al-folio builds its navigation from each page's `nav` and `nav_order` fields.
