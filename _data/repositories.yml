@@ -1,6 +1,8 @@
 github_users:
   - labiao
 github_repos:
+  - labiao/SSGW
+  - HariwW/TFCL-Net
   - labiao/GWSegNet
   - labiao/SSGW
   - labiao/BAC-AR-Net

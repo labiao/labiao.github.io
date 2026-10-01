@@ -24,8 +24,6 @@ I am a PhD candidate in **Photogrammetry and Remote Sensing at Wuhan University*
 
 I develop deep-learning methods for extracting buildings, roads, changes, and archaeological traces from remote-sensing imagery. My current work focuses on the large-scale identification and monitoring of Great Wall heritage using multimodal, multi-temporal, and limited-annotation data.
 
-My broader goal is to turn advances in geospatial AI into reliable tools for documenting, monitoring, and conserving cultural heritage.
-
 ## Research interests
 
 - Remote sensing image interpretation
