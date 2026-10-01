@@ -11,6 +11,7 @@ My research code and datasets are available on [GitHub](https://github.com/labia
 
 - [GWSegNet](https://github.com/labiao/GWSegNet) — heritage segmentation for identifying Great Wall traces in high-resolution imagery.
 - [SSGW](https://github.com/labiao/SSGW) — semantic segmentation of Great Wall heritage.
+- [TFCL-Net](https://github.com/HariwW/TFCL-Net) — terrain-aware fusion and connectivity-aware learning for Great Wall relic extraction.
 - [BAC-AR-Net](https://github.com/labiao/BAC-AR-Net) — building-aware clustering and activation refinement.
 - [MFR-PGC-Net](https://github.com/labiao/MFR-PGC-Net) — weakly supervised building extraction from bounding-box annotations.
 - [ACGC](https://github.com/labiao/ACGC) — improved pseudomask generation for building extraction.
