@@ -7,3 +7,19 @@ JSTARS:
 Heritage:
   url: https://www.nature.com/npjheritagesci/
   color: "#b50957"
+GRSL:
+  color: "#0076df"
+IGARSS:
+  color: "#0076df"
+RS:
+  color: "#16876b"
+Sustainability:
+  color: "#16876b"
+CVIU:
+  color: "#b65d12"
+Geothermics:
+  color: "#b65d12"
+ISPRS JPRS:
+  color: "#7651a8"
+CSD:
+  color: "#52717e"
